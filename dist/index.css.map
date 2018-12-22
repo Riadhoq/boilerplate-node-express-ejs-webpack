@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/static/main.scss"],"names":[],"mappings":"AAAA;AACA;AACA,eAAe;;AAEf;AACA,aAAa","file":"index.css","sourcesContent":["html {\n  box-sizing: border-box;\n  height: 100%; }\n\nh1 {\n  color: red; }\n"],"sourceRoot":""}
